@@ -2,7 +2,7 @@
 
 
 
-<h1 align ="center"> :star::star::star:victorwan91:star::star::star: </h1>  
+<h1 align ="center"> :star::star::star:Hi there 👋, It's Ka Leung Wan here:star::star::star: </h1>  
  <p align="center"> 
  <img alt="Picture" src="https://img.freepik.com/premium-vector/green-matrix-background-falling-numbers-screen-technology-stream-binary-code-digital-vector-illustration-hacking-concept_658411-81.jpg?w=1060" height="300" width="6000">
 </p>
@@ -37,4 +37,9 @@ Here you can browse all the tech projects I have done, feel free to look around.
 
 <hr />
 
+### GitHub Stats:
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorwan91&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorwan91&layout=compact)](https://github.com/victorwan91/github-readme-stats)
+
+<hr />
