@@ -2,7 +2,7 @@
 
 
 
-<h1 align ="center"> :star::star::star:Hi there 👋, It's Ka Leung Wan here:star::star::star: </h1>  
+<h1 align ="center"> :star::star::star:Hi there 👋, It's Victor here:star::star::star: </h1>  
  <p align="center"> 
  <img alt="Picture" src="https://img.freepik.com/premium-vector/green-matrix-background-falling-numbers-screen-technology-stream-binary-code-digital-vector-illustration-hacking-concept_658411-81.jpg?w=1060" height="300" width="6000">
 </p>
@@ -14,7 +14,7 @@ Here you can browse all the tech projects I have done, feel free to look around.
 
 🌱 I’m currently learning Python, HTML, CSS, Bootstrap, Django and SQL
 
-⚡ Fun fact: I am from Machanical Engineering background.
+⚡ Fun fact: I am from Mechanical Engineering background.
 
 <hr/>
 
